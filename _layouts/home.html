@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {%- include head.html -%}
+
+  <body class="{{ page.id }}">
+
+    {%- include header.html -%}
+
+    <div class="contents">
+      <div class="main_caption">
+        <h1 style="margin-bottom: 0;">전국 대학생 프로그래밍 대회 동아리 연합</h1>
+        Union of Clubs for Programming Contests
+      </div>
+    </div>
+    <div style="height: 2rem;"></div>
+    <div class="cover_image">
+      <img id="main-pic-blurry" alt="UCPC 2019">
+      <img id="main-pic" alt="UCPC 2019">
+    </div>
+    <script type="text/javascript">
+      function lpad(num, pad_str, len) {
+        var str = num.toString();
+        while (str.length < len) {
+          str = pad_str + str;
+        }
+        return str;
+      }
+      window.onload = function () {
+        var picture_num = Math.floor(Math.random() * 13);
+        var picture_name = 'main-pic-' + lpad(picture_num, '0', 2) + '.jpg';
+        var path = '{{ "/assets/" | relative_url }}' + picture_name;
+        document.getElementById('main-pic').src = path;
+        document.getElementById('main-pic-blurry').src = path;
+      };
+    </script>
+
+    <div style="height: 4rem;"></div>
+
+    <main class="contents index" style="text-align: center;" aria-label="Content">
+      {{ content }}
+    </main>
+
+    <div style="height: 2rem;"></div>
+
+    <div class="hr"></div>
+
+    <div style="height: 2rem;"></div>
+
+    {%- include footer.html -%}
+
+  </body>
+
+</html>
