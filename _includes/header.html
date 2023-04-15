@@ -11,7 +11,6 @@
   <div style="height: 1rem;"></div>
   <div>
     {%- assign default_paths = site.pages | map: "path" -%}
-    {%- assign page_paths = site.header_pages | default: default_paths -%}
 
     {%- if page_paths -%}
       <nav class="main_nav">
