@@ -27,7 +27,7 @@
         return str;
       }
       window.onload = function () {
-        var picture_num = Math.floor(Math.random() * 13);
+        var picture_num = Math.floor(Math.random() * 28);
         var picture_name = 'main-pic-' + lpad(picture_num, '0', 2) + '.jpg';
         var path = '{{ "/assets/" | relative_url }}' + picture_name;
         document.getElementById('main-pic').src = path;
