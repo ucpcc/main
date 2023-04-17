@@ -48,12 +48,12 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 
 ## 임원
 
-| 직책 | 핸들 | 소속 동아리 |
+| 직책 | 핸들 | 소속 |
 | --- | --- | -------- |
-| 회장 | @leejseo | KAIST RUN |
-| 부회장 | @man_of_learning | 전북대학교 ALPS |
-| 부회장 | @tncks0121 | KAIST RUN |
-| 부회장 | @ho94949 | KAIST RUN |
+| 회장 | @leejseo | KAIST |
+| 부회장 | @man_of_learning | 전북대학교 |
+| 부회장 | @tncks0121 | KAIST |
+| 부회장 | @ho94949 | KAIST |
 
 
 ## 과거 대회 정보
