@@ -61,7 +61,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 
 과거에 열렸던 UCPC의 정보와 문제들을 살펴보고 다가올 대회를 준비해 보세요!
 
-| 대회      |                                                           문제                                                           |                                 풀이                                  |                                          결과                                          |
+| 대회      |   문제   |    풀이    |     결과   |
 | --------- | :----------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------: | :------------------------------------------------------------------------------------: |
 | 2022 본선 |                                   [문제](https://www.acmicpc.net/category/detail/3147)                                   | [풀이](https://static.ucpc.me/files/2022/ucpc22-finals-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/828)               |
 | 2022 예선 |                                   [문제](https://www.acmicpc.net/category/detail/3138)                                   | [풀이](https://static.ucpc.me/files/2022/ucpc22-prelim-solutions.pdf) |               [대회 결과](https://www.acmicpc.net/contest/spotboard/827)               |
@@ -77,5 +77,5 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 2015      |                                   [문제](https://www.acmicpc.net/category/detail/1358)                                   |       [풀이](https://static.ucpc.me/files/2015/5-51953762.pdf)        |                       [대회 결과](https://ucpc2015.acmicpc.net/)                       |
 | 2014      | [문제](https://algospot.com/judge/problem/list/?source=제4회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) |      [풀이](https://static.ucpc.me/files/2014/ucpc2014_sol_.pdf)      |                         [대회 결과](http://140823.hodduc.net/)                         |
 | 2013      | [문제](https://algospot.com/judge/problem/list/?source=제3회%20전국%20대학생%20프로그래밍%20대회%20동아리%20연합%20대회) | [풀이](https://static.ucpc.me/files/2013/ucpc-3rd-solution-slide.pdf) | [대회 결과](https://dl.dropboxusercontent.com/s/sk5n8ur0kl7l5gq/ucpc-3rd-standing.png) |
-| 2012      |        [문제](https://static.ucpc.me/files/2012/ucpc12-problems.pdf)            |                                                                                        |
+| 2012      |        [문제](https://static.ucpc.me/files/2012/ucpc12-problems.pdf)            |   [풀이](https://static.ucpc.me/files/2012/ucpc12-solutions.pdf) | |
 | 2011      |        [문제](https://static.ucpc.me/files/2011/ucpc11-problems.pdf)     |     [풀이](https://static.ucpc.me/files/2011/ucpc-1st-slide.pdf)      |                                                                                        |
