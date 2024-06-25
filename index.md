@@ -53,10 +53,10 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 
 | 직책 | 핸들 | 소속 |
 | --- | --- | -------- |
-| 회장 | @leejseo | KAIST |
+| 회장 | @kipa00 | 서울대학교 |
+| 부회장 | @leejseo | KAIST |
 | 부회장 | @man_of_learning | 전북대학교 |
-| 부회장 | @tncks0121 | KAIST |
-| 부회장 | @ho94949 | KAIST |
+| 부회장 | @cozyyg | 서울대학교 |
 
 
 ## 과거 대회 정보
