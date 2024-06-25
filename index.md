@@ -3,6 +3,8 @@ layout: home
 title: 전국 대학생 프로그래밍 대회 동아리 연합
 ---
 
+## [UCPC 2024 신청하기](https://2024.ucpc.me)
+
 ## 공지
 - (2024-03-25) UCPC 2024의 [Call for tasks](https://2024.ucpc.me/tasks/)를 진행합니다.
 - (2024-03-25) UCPC 2024가 개최될 예정입니다 -- 대회 페이지: [링크](https://2024.ucpc.me)
