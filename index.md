@@ -53,12 +53,37 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 
 ## 임원
 
-| 직책 | 핸들 | 소속 |
-| --- | --- | -------- |
-| 회장 | @kipa00 | 서울대학교 |
-| 부회장 | @leejseo | KAIST |
-| 부회장 | @man_of_learning | 전북대학교 |
-| 부회장 | @cozyyg | 서울대학교 |
+<style>
+.executives-table {
+  margin-right: 2rem;
+  width: calc(100% - 2rem);
+}
+.executives-table th:first-child,
+.executives-table td:first-child {
+  width: 25%;
+}
+.executives-table th:nth-child(2),
+.executives-table td:nth-child(2) {
+  width: 45%;
+  padding-left: 2rem;
+}
+.executives-table th:last-child,
+.executives-table td:last-child {
+  width: 30%;
+}
+</style>
+
+{: .executives-table}
+| 직책 | 이름 (BOJ 핸들) | 소속 |
+| :---: | :--- | --- |
+| 회장 | 정우경 ([@man_of_learning](https://www.acmicpc.net/user/man_of_learning){:target="_blank"}) | 전북대학교 |
+| 부회장 | 김현빈 ([@akim9905](https://www.acmicpc.net/user/akim9905){:target="_blank"}) | 아주대학교 |
+| 부회장 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
+| 부회장 | 장래오 ([@leo020630](https://www.acmicpc.net/user/leo020630){:target="_blank"}) | 포항공과대학교 |
+| 운영진 | 김영현 ([@kipa00](https://www.acmicpc.net/user/kipa00){:target="_blank"}) | 서울대학교 |
+| 운영진 | 이종서 ([@leejseo](https://www.acmicpc.net/user/leejseo){:target="_blank"}) | KAIST |
+| 운영진 | 이종학 ([@js9028](https://www.acmicpc.net/user/js9028){:target="_blank"}) | 아주대학교 |
+| 운영진 | 정은채 ([@celina324](https://www.acmicpc.net/user/celina324){:target="_blank"}) | 이화여자대학교 |
 
 ## 과거 대회 정보
 
