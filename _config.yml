@@ -19,15 +19,13 @@ author: 전국 대학생 프로그래밍 대회 동아리 연합
 description: >- # this means to ignore newlines until "baseurl:"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ucpc.me" # the base hostname & protocol for your site, e.g. http://example.com
 google_analytics: ""
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
-
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
