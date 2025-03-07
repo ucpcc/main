@@ -10,11 +10,13 @@ div.footer_contents.old_sites {
   justify-content: center;
   align-items: center;
   gap: 1em 2em;
+  max-width: 800px;
   a {
     filter: grayscale(1);
     transition: filter 0.3s ease;
     &:hover {
       filter: grayscale(0);
+      transform: scale(1.1); transition: transform 0.25s;
     }
   }
 }
