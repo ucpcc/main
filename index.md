@@ -51,6 +51,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | DGIST | DPS |
 | KAIST | RUN |
 | UNIST | Almight |
+| 동국대학교 | CAPS |
 
 ## 임원
 
