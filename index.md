@@ -22,6 +22,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 경북대학교 | Gori |
 | 고려대학교 | Alkor |
 | 고려대학교 | ALPS |
+| 동국대학교 | CAPS |
 | 부산대학교 | PULSE |
 | 상명대학교 | SCV(Sangmyung Coding Vitamin) |
 | 서강대학교 | Sogang ICPC Team |
@@ -51,7 +52,6 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | DGIST | DPS |
 | KAIST | RUN |
 | UNIST | Almight |
-| 동국대학교 | CAPS |
 
 ## 임원
 
