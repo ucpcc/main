@@ -25,14 +25,11 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 고려대학교 세종캠퍼스 | KNT |
 | 동국대학교 | CAPS |
 | 부산대학교 | PULSE |
-| 상명대학교 | SCV(Sangmyung Coding Vitamin) |
 | 서강대학교 | Sogang ICPC Team |
 | 서울과학기술대학교 | NL |
 | 서울대학교 | SNUPS |
 | 서울시립대학교 | AL林 (알림) |
-| 성결대학교 | 성결 알고리즘 |
 | 성균관대학교 | NPC |
-| 세종대학교 | SAL (Sejong Algorithm Lab) |
 | 숙명여자대학교 | ALGOS(알고스) |
 | 숭실대학교 | SCCC |
 | 아주대학교 | A.N.S.I. |
@@ -44,9 +41,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 중앙대학교 | ChAOS |
 | 충남대학교 | ANA |
 | 포항공과대학교 | POSCAT |
-| 한국교원대학교 | CompuThinking |
 | 한국기술교육대학교 | 씨앗 |
-| 한국방송통신대학교 | PS동아리 |
 | 한국항공대학교 | Koala |
 | 한양대학교 (서울) | ALOHA |
 | 한양대학교 ERICA 캠퍼스 | 0&1 |
