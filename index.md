@@ -33,7 +33,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 서울시립대학교 | AL林 (알림) |
 | 성균관대학교 | NPC |
 | 숙명여자대학교 | ALGOS(알고스) |
-| 숭실대학교 | SCCC |
+| 숭실대학교 | [SCCC](https://sccc.kr/){:target="_blank"} |
 | 아주대학교 | A.N.S.I. |
 | 연세대학교 | 모르고리즘 |
 | 이화여자대학교 | EDOC |
@@ -42,12 +42,12 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 전북대학교 | ALPS |
 | 중앙대학교 | ChAOS |
 | 충남대학교 | ANA |
-| 포항공과대학교 | POSCAT |
+| 포항공과대학교 | [POSCAT](https://poscat.team:7443/){:target="_blank"} |
 | 한국기술교육대학교 | 씨앗 |
 | 한국항공대학교 | Koala |
 | 한양대학교 (서울) | ALOHA |
 | 한양대학교 ERICA 캠퍼스 | 0&1 |
-| 홍익대학교 | HI-ARC |
+| 홍익대학교 | [HI-ARC](https://hiarchomepage.web.app/){:target="_blank"} |
 | DGIST | DPS |
 | KAIST | [RUN](https://kaist.run/){:target="_blank"} |
 | UNIST | [Almight](https://almight.notion.site/){:target="_blank"} |
