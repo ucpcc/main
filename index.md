@@ -20,14 +20,14 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | ---- | ----- |
 | 가톨릭대학교 | ALCUK |
 | 건국대학교 | AlKon |
-| 경기대학교 | Solutio |
+| 경기대학교 | [Solutio](http://cs.kyonggi.ac.kr:8080/community_club.kgu?num=23){:target="_blank"} |
 | 경북대학교 | Gori |
 | 고려대학교 | Alkor |
 | 고려대학교 | ALPS |
 | 고려대학교 세종캠퍼스 | KNT |
 | 동국대학교 | CAPS |
 | 부산대학교 | PULSE |
-| 서강대학교 | Sogang ICPC Team |
+| 서강대학교 | [Sogang ICPC Team](https://icpc.team/){:target="_blank"} |
 | 서울과학기술대학교 | NL |
 | 서울대학교 | SNUPS |
 | 서울시립대학교 | AL林 (알림) |
@@ -49,8 +49,8 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 한양대학교 ERICA 캠퍼스 | 0&1 |
 | 홍익대학교 | HI-ARC |
 | DGIST | DPS |
-| KAIST | RUN |
-| UNIST | Almight |
+| KAIST | [RUN](https://kaist.run/){:target="_blank"} |
+| UNIST | [Almight](https://almight.notion.site/){:target="_blank"} |
 
 ## 임원
 
