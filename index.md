@@ -25,7 +25,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 고려대학교 | Alkor |
 | 고려대학교 | ALPS |
 | 고려대학교 세종캠퍼스 | KNT |
-| 동국대학교 | CAPS |
+| 동국대학교 | [CAPS](https://dgucaps.kr/){:target="_blank"} |
 | 부산대학교 | PULSE |
 | 서강대학교 | [Sogang ICPC Team](https://icpc.team/){:target="_blank"} |
 | 서울과학기술대학교 | NL |
