@@ -34,7 +34,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 성균관대학교 | NPC |
 | 숙명여자대학교 | ALGOS(알고스) |
 | 숭실대학교 | [SCCC](https://sccc.kr/){:target="_blank"} |
-| 아주대학교 | A.N.S.I. |
+| 아주대학교 | [A.N.S.I.](https://ansi.ajou.club/){:target="_blank"} |
 | 연세대학교 | 모르고리즘 |
 | 이화여자대학교 | EDOC |
 | 인하대학교 | CTP |
