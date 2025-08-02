@@ -5,6 +5,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
+## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"}
 
 ## 공지
 - (2025-04-21) UCPC 2025가 개최될 예정입니다 -- 대회 페이지: [링크](https://2025.ucpc.me){:target="_blank"}
