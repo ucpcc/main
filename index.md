@@ -83,7 +83,6 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 부회장 | 김현빈 ([@akim9905](https://www.acmicpc.net/user/akim9905){:target="_blank"}) | 아주대학교 |
 | 부회장 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
 | 부회장 | 장래오 ([@leo020630](https://www.acmicpc.net/user/leo020630){:target="_blank"}) | 포항공과대학교 |
-| 운영진 | 김영현 ([@kipa00](https://www.acmicpc.net/user/kipa00){:target="_blank"}) | 서울대학교 |
 | 운영진 | 이종서 ([@leejseo](https://www.acmicpc.net/user/leejseo){:target="_blank"}) | KAIST |
 | 운영진 | 이종학 ([@js9028](https://www.acmicpc.net/user/js9028){:target="_blank"}) | 아주대학교 |
 | 운영진 | 정은채 ([@celina324](https://www.acmicpc.net/user/celina324){:target="_blank"}) | 이화여자대학교 |
