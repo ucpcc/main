@@ -44,7 +44,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 전북대학교 | ALPS |
 | 중앙대학교 | ChAOS |
 | 충남대학교 | ANA |
-| 포항공과대학교 | [POSCAT](https://poscat.team:7443/){:target="_blank"} |
+| 포항공과대학교 | [POSCAT](https://poscat.team/){:target="_blank"} |
 | 한국기술교육대학교 | 씨앗 |
 | 한국항공대학교 | Koala |
 | 한양대학교 (서울) | ALOHA |
