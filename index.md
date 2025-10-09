@@ -31,6 +31,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 부산대학교 | PULSE |
 | 서강대학교 | [Sogang ICPC Team](https://icpc.team/){:target="_blank"} |
 | 서울과학기술대학교 | NL |
+| 서울대학교 | [SCSC](https://scsc.oopy.io/){:target="_blank"} |
 | 서울대학교 | SNUPS |
 | 서울시립대학교 | AL林 (알림) |
 | 성균관대학교 | NPC |
