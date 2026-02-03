@@ -14,3 +14,8 @@ Ruby 2.6.8
 ## Run
 
 - `bundle exec jekyll serve`
+
+## Run with Docker
+
+- `docker compose -f docker-compose.local.yml up --build`
+- open `http://localhost:4000`
