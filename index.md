@@ -5,7 +5,7 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
-## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"}
+<!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
 
 ## 공지
 - (2025-04-21) UCPC 2025가 개최될 예정입니다 -- 대회 페이지: [링크](https://2025.ucpc.me){:target="_blank"}
@@ -80,13 +80,18 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 {: .executives-table}
 | 직책 | 이름 (BOJ 핸들) | 소속 |
 | :---: | :--- | --- |
-| 회장 | 정우경 ([@man_of_learning](https://www.acmicpc.net/user/man_of_learning){:target="_blank"}) | 전북대학교 |
-| 부회장 | 김현빈 ([@akim9905](https://www.acmicpc.net/user/akim9905){:target="_blank"}) | 아주대학교 |
-| 부회장 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
-| 부회장 | 장래오 ([@leo020630](https://www.acmicpc.net/user/leo020630){:target="_blank"}) | 포항공과대학교 |
+| 회장 | 신민철 ([@fefe](https://www.acmicpc.net/user/fefe){:target="_blank"}) | KAIST |
+| 운영진 | 강호현 ([@annieho](https://www.acmicpc.net/user/annieho){:target="_blank"}) | 연세대학교 |
+| 운영진 | 이하람 ([@rammma](https://www.acmicpc.net/user/rammma){:target="_blank"}) | 연세대학교 |
+| 운영진 | 이성현 ([@hibye1217](https://www.acmicpc.net/user/hibye1217){:target="_blank"}) | 한양대학교 |
+| 운영진 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
 | 운영진 | 이종서 ([@leejseo](https://www.acmicpc.net/user/leejseo){:target="_blank"}) | KAIST |
 | 운영진 | 이종학 ([@js9028](https://www.acmicpc.net/user/js9028){:target="_blank"}) | 아주대학교 |
+| 운영진 | 이준휘 ([@johnny8337](https://www.acmicpc.net/user/johnny8337){:target="_blank"}) | KAIST |
+| 운영진 | 오유림 ([@clp135](https://www.acmicpc.net/user/clp135){:target="_blank"}) | 연세대학교 |
+| 운영진 | 장근영 ([@azberjibiou](https://www.acmicpc.net/user/azberjibiou){:target="_blank"}) | KAIST |
 | 운영진 | 정은채 ([@celina324](https://www.acmicpc.net/user/celina324){:target="_blank"}) | 이화여자대학교 |
+| 운영진 | 정우경 ([@man_of_learning](https://www.acmicpc.net/user/man_of_learning){:target="_blank"}) | 전북대학교 |
 
 ## 과거 대회 정보
 
