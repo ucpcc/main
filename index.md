@@ -81,14 +81,14 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | 직책 | 이름 (BOJ 핸들) | 소속 |
 | :---: | :--- | --- |
 | 회장 | 신민철 ([@fefe](https://www.acmicpc.net/user/fefe){:target="_blank"}) | KAIST |
-| 운영진 | 강호현 ([@annieho](https://www.acmicpc.net/user/annieho){:target="_blank"}) | 연세대학교 |
+| 부회장 | 강호현 ([@annieho](https://www.acmicpc.net/user/annieho){:target="_blank"}) | 연세대학교 |
+| 부회장 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
+| 부회장 | 장근영 ([@azberjibiou](https://www.acmicpc.net/user/azberjibiou){:target="_blank"}) | KAIST |
 | 운영진 | 이성현 ([@hibye1217](https://www.acmicpc.net/user/hibye1217){:target="_blank"}) | 한양대학교 |
-| 운영진 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
 | 운영진 | 이종서 ([@leejseo](https://www.acmicpc.net/user/leejseo){:target="_blank"}) | KAIST |
 | 운영진 | 이종학 ([@js9028](https://www.acmicpc.net/user/js9028){:target="_blank"}) | 아주대학교 |
 | 운영진 | 이준휘 ([@johnny8337](https://www.acmicpc.net/user/johnny8337){:target="_blank"}) | KAIST |
 | 운영진 | 오유림 ([@clp135](https://www.acmicpc.net/user/clp135){:target="_blank"}) | 연세대학교 |
-| 운영진 | 장근영 ([@azberjibiou](https://www.acmicpc.net/user/azberjibiou){:target="_blank"}) | KAIST |
 | 운영진 | 정은채 ([@celina324](https://www.acmicpc.net/user/celina324){:target="_blank"}) | 이화여자대학교 |
 | 운영진 | 정우경 ([@man_of_learning](https://www.acmicpc.net/user/man_of_learning){:target="_blank"}) | 전북대학교 |
 
