@@ -82,7 +82,6 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 | :---: | :--- | --- |
 | 회장 | 신민철 ([@fefe](https://www.acmicpc.net/user/fefe){:target="_blank"}) | KAIST |
 | 운영진 | 강호현 ([@annieho](https://www.acmicpc.net/user/annieho){:target="_blank"}) | 연세대학교 |
-| 운영진 | 이하람 ([@rammma](https://www.acmicpc.net/user/rammma){:target="_blank"}) | 연세대학교 |
 | 운영진 | 이성현 ([@hibye1217](https://www.acmicpc.net/user/hibye1217){:target="_blank"}) | 한양대학교 |
 | 운영진 | 이예린 ([@abra_stone](https://www.acmicpc.net/user/abra_stone){:target="_blank"}) | KAIST |
 | 운영진 | 이종서 ([@leejseo](https://www.acmicpc.net/user/leejseo){:target="_blank"}) | KAIST |
