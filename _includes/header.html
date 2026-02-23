@@ -10,8 +10,6 @@
   </div>
   <div style="height: 1rem;"></div>
   <div>
-    {%- assign default_paths = site.pages | map: "path" -%}
-
     {%- if page_paths -%}
       <nav class="main_nav">
         {%- for path in page_paths -%}
@@ -22,6 +20,9 @@
         {% endfor -%}
       </nav>
     {%- endif -%}
+    {%- unless page.name == "404.html" -%}
+      {%- include lang-switch.html -%}
+    {%- endunless -%}
   </div>
   <div style="height: 2rem;"></div>
   <div class="hr"></div>

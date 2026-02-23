@@ -1,6 +1,7 @@
 ---
 layout: home
 title: 전국 대학생 프로그래밍 대회 동아리 연합
+lang: ko
 ---
 
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->

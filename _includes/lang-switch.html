@@ -1,0 +1,45 @@
+{%- assign current_url = page.url | default: "/" -%}
+{%- if current_url == "" -%}
+  {%- assign current_url = "/" -%}
+{%- endif -%}
+
+{%- assign is_en_page = false -%}
+{%- assign url_prefix = current_url | slice: 0, 4 -%}
+{%- if page.lang == "en" -%}
+  {%- assign is_en_page = true -%}
+{%- elsif url_prefix == "/en/" -%}
+  {%- assign is_en_page = true -%}
+{%- endif -%}
+
+{%- if is_en_page -%}
+  {%- assign ko_url = current_url | remove_first: "/en" -%}
+  {%- if ko_url == "" -%}
+    {%- assign ko_url = "/" -%}
+  {%- endif -%}
+  {%- assign en_url = current_url -%}
+{%- else -%}
+  {%- assign ko_url = current_url -%}
+  {%- if current_url == "/" -%}
+    {%- assign en_candidate = "/en/" -%}
+  {%- else -%}
+    {%- assign en_candidate = "/en" | append: current_url -%}
+  {%- endif -%}
+  {%- assign en_page = site.pages | where: "url", en_candidate | first -%}
+  {%- if en_page -%}
+    {%- assign en_url = en_candidate -%}
+  {%- else -%}
+    {%- assign en_url = "/en/" -%}
+  {%- endif -%}
+{%- endif -%}
+
+<nav class="lang_switch" aria-label="Language switcher">
+  <select
+    id="lang-select"
+    class="lang_select"
+    aria-label="Language switcher"
+    onchange="if (this.value) window.location.href = this.value;"
+  >
+    <option value="{{ ko_url | relative_url }}" {% unless is_en_page %}selected{% endunless %}>🇰🇷 KO</option>
+    <option value="{{ en_url | relative_url }}" {% if is_en_page %}selected{% endif %}>🌐 EN</option>
+  </select>
+</nav>
