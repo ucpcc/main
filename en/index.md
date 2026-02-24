@@ -10,12 +10,12 @@ permalink: /en/
 <!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
 
 ## Notices
-- (2025-04-21) **UCPC 2025 is comming** — Contest page: [Link](https://2025.ucpc.me){:target="_blank"}
+- (2025-04-21) **UCPC 2025 is coming** — Contest page: [Link](https://2025.ucpc.me){:target="_blank"}
 - (2025-03-07) **UCPC 2025 — Call for Tasks is now open** [Link](https://2025.ucpc.me/tasks/){:target="_blank"}.
 - (2024-03-25) **UCPC 2024 — Call for Tasks is now open** [Link](https://2024.ucpc.me/tasks/){:target="_blank"}.
-- (2024-03-25) **UCPC 2024 will be held** — Contest page: [Link](https://2024.ucpc.me){:target="_blank"}
+- (2024-03-25) **UCPC 2024 is coming** — Contest page: [Link](https://2024.ucpc.me){:target="_blank"}
 - (2023-12-27) **Registration for Good Bye, BOJ 2023! is open.** Please check the [contest page](https://2023w.ucpc.me){:target="_blank"}.
-- (2023-12-25) **Good Bye, BOJ 2023! / Hello, BOJ 2024! will be held** — Contest page: [Link](https://2023w.ucpc.me/){:target="_blank"}
+- (2023-12-25) **Good Bye, BOJ 2023! / Hello, BOJ 2024! is coming** — Contest page: [Link](https://2023w.ucpc.me/){:target="_blank"}
 - (2023-06-17) **Registration for UCPC 2023 is open.** Please check the [contest page](https://2023.ucpc.me){:target="_blank"}.
 
 ## Member Clubs
