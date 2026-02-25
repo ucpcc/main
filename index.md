@@ -9,6 +9,7 @@ lang: ko
 <!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
 
 ## 공지
+- (2026-02-26) UCPC 2026가 개최될 예정입니다 -- 대회 페이지: [링크](https://2026.ucpc.me){:target="_blank"}
 - (2025-04-21) UCPC 2025가 개최될 예정입니다 -- 대회 페이지: [링크](https://2025.ucpc.me){:target="_blank"}
 - (2025-03-07) UCPC 2025의 [Call for Tasks](https://2025.ucpc.me/tasks/){:target="_blank"}를 진행합니다.
 - (2024-03-25) UCPC 2024의 [Call for tasks](https://2024.ucpc.me/tasks/){:target="_blank"}를 진행합니다.
