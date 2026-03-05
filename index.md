@@ -22,7 +22,6 @@ lang: ko
 
 | 대학교 | 동아리 |
 | ---- | ----- |
-| 가톨릭대학교 | ALCUK |
 | 건국대학교 | AlKon |
 | 경기대학교 | [Solutio](http://cs.kyonggi.ac.kr:8080/community_club.kgu?num=23){:target="_blank"} |
 | 경북대학교 | Gori |
