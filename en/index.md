@@ -23,7 +23,6 @@ permalink: /en/
 
 | School Name | Club Name |
 | ---- | ----- |
-| The Catholic University of Korea | ALCUK |
 | Konkuk University | AlKon |
 | Kyungpook National University | Gori |
 | Korea University | Alkor |
