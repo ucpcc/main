@@ -27,7 +27,7 @@ permalink: /en/
 | --------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
 | Konkuk University                                   | AlKon                                                                                                                       |
 | Kyonggi University                                  | [Solutio](https://nest.solutio.page){:target="\_blank"}                                                                     |
-| Kyungpook National University                       | Gori                                                                                                                        |
+| Kyungpook National University                       | [Gori](https://gor2.kr/){:target="\_blank"}                                                                                 |
 | Korea University                                    | [Alkor](https://trite-almandine-590.notion.site/Alkor-4e41c606fcc74381924b33e5edda8f12){:target="\_blank"}                  |
 | Korea University                                    | ALPS                                                                                                                        |
 | Korea University Sejong Campus                      | KNT                                                                                                                         |
@@ -36,7 +36,7 @@ permalink: /en/
 | Sogang University                                   | [Sogang ICPC Team](https://icpc.team/){:target="\_blank"}                                                                   |
 | Seoul National University of Science and Technology | NL                                                                                                                          |
 | Seoul National University                           | [SCSC](https://scsc.dev/){:target="\_blank"}                                                                                |
-| Seoul National University                           | SNUPS                                                                                                                       |
+| Seoul National University                           | [SNUPS](https://snups.org){:target="\_blank"}                                                                               |
 | University of Seoul                                 | AL林 (알림)                                                                                                                 |
 | Sungkyunkwan University                             | [NPC](https://npc-skku.github.io/){:target="\_blank"}                                                                       |
 | Sookmyung Women's University                        | [ALGOS(알고스)](https://alkaline-gambler-d64.notion.site/ALGOS-2fbd639bfadf80ef9930cc0def59e3ee?pvs=143){:target="\_blank"} |
