@@ -51,7 +51,7 @@ lang: ko
 | 한국기술교육대학교      | 씨앗                                                                                                                        |
 | 한국항공대학교          | Koala                                                                                                                       |
 | 한양대학교 (서울)       | ALOHA                                                                                                                       |
-| 한양대학교 ERICA 캠퍼스 | 0&1                                                                                                                         |
+| 한양대학교 ERICA 캠퍼스 | [0&1](https://zerone01.kr/){:target="\_blank"}                                                                              |
 | 홍익대학교              | [HI-ARC](https://hiarchomepage.web.app/){:target="\_blank"}                                                                 |
 | DGIST                   | DPS                                                                                                                         |
 | KAIST                   | [RUN](https://kaist.run/){:target="\_blank"}                                                                                |
