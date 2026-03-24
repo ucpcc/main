@@ -52,7 +52,7 @@ permalink: /en/
 | Korea University of Technology and Education        | 씨앗                                                                                                                        |
 | Korea Aerospace University                          | Koala                                                                                                                       |
 | Hanyang University (Seoul Campus)                   | ALOHA                                                                                                                       |
-| Hanyang University (ERICA Campus)                   | 0&1                                                                                                                         |
+| Hanyang University (ERICA Campus)                   | [0&1](https://zerone01.kr/){:target="\_blank"}                                                                              |
 | Hongik University                                   | [HI-ARC](https://hiarchomepage.web.app/){:target="\_blank"}                                                                 |
 | DGIST                                               | DPS                                                                                                                         |
 | KAIST                                               | [RUN](https://kaist.run/){:target="\_blank"}                                                                                |
