@@ -30,6 +30,7 @@ lang: ko
 | 고려대학교              | [Alkor](https://trite-almandine-590.notion.site/Alkor-4e41c606fcc74381924b33e5edda8f12){:target="\_blank"}                  |
 | 고려대학교              | ALPS                                                                                                                        |
 | 고려대학교 세종캠퍼스   | KNT                                                                                                                         |
+| 국민대학교              | [KPSC](https://kmucs-kpsc.github.io){:target="\_blank"}                                                                     |
 | 동국대학교              | [CAPS](https://dgucaps.kr/){:target="\_blank"}                                                                              |
 | 부산대학교              | [PULSE](https://www.instagram.com/pnu_pulse/){:target="\_blank"}                                                            |
 | 서강대학교              | [Sogang ICPC Team](https://icpc.team/){:target="\_blank"}                                                                   |

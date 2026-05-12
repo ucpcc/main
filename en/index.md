@@ -31,6 +31,7 @@ permalink: /en/
 | Korea University                                    | [Alkor](https://trite-almandine-590.notion.site/Alkor-4e41c606fcc74381924b33e5edda8f12){:target="\_blank"}                  |
 | Korea University                                    | ALPS                                                                                                                        |
 | Korea University Sejong Campus                      | KNT                                                                                                                         |
+| Kookmin University                                  | [KPSC](https://kmucs-kpsc.github.io){:target="\_blank"}                                                                     |
 | Dongguk University                                  | [CAPS](https://dgucaps.kr/){:target="\_blank"}                                                                              |
 | Pusan National University                           | [PULSE](https://www.instagram.com/pnu_pulse/){:target="\_blank"}                                                            |
 | Sogang University                                   | [Sogang ICPC Team](https://icpc.team/){:target="\_blank"}                                                                   |
