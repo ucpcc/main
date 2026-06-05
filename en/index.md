@@ -5,12 +5,15 @@ lang: en
 permalink: /en/
 ---
 
+## [Register for UCPC 2026](https://forms.gle/g5ByqXEgFSw7QR2d7){:target="_blank"}
+
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
 <!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
 
 ## Notices
 
+- (2026-06-05) **Registration for UCPC 2026 is open.** Registration closes on June 18, 2026. Please submit through the [registration form](https://forms.gle/g5ByqXEgFSw7QR2d7){:target="_blank"}.
 - (2026-03-11) **UCPC 2026 — Call for Tasks is now open** [Link](https://2026.ucpc.me/tasks/){:target="\_blank"}.
 - (2026-02-26) **UCPC 2026 is coming** — Contest page: [Link](https://2026.ucpc.me){:target="\_blank"}
 - (2025-04-21) **UCPC 2025 is coming** — Contest page: [Link](https://2025.ucpc.me){:target="\_blank"}
