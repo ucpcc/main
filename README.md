@@ -1,21 +1,40 @@
-# 전국 대학생 프로그래밍 대회 동아리 연합 메인 페이지
+# UCPC 2026 대회 안내 페이지
 
 ## Prerequisites
 
-Ruby 2.6.8
+- Ruby 3.3
+- Bundler
 
-- `bundle install`
+## Local
 
-### M1 arch에서 안 되는 경우
+Ruby 3.3 환경에서 아래처럼 실행합니다.
 
-- Rosetta 설치 `softwareupdate --install-rosetta`
-- `arch -arch x86_64 bundle install`
+```bash
+bundle install
+bundle exec jekyll serve
+```
 
-## Run
+브라우저에서 `http://127.0.0.1:4000` 으로 확인할 수 있습니다.
 
-- `bundle exec jekyll serve`
+Apple Silicon Mac에서도 Ruby 3.3 기준으로 그대로 실행하면 됩니다.
 
-## Run with Docker
+플랫폼 관련 오류가 나면 아래를 한 번 실행한 뒤 다시 설치하세요.
 
-- `docker compose -f docker-compose.local.yml up --build`
-- open `http://localhost:4000`
+```bash
+bundle lock --add-platform arm64-darwin
+bundle install
+```
+
+## Docker Compose
+
+```bash
+docker compose up --build
+```
+
+브라우저에서 `http://127.0.0.1:4000` 으로 확인할 수 있습니다.
+
+중지할 때는 아래를 실행합니다.
+
+```bash
+docker compose down
+```
