@@ -13,12 +13,12 @@ permalink: /en/
 
 ## Notices
 
-- (6/15) The registration period has been extended to June 20 (Sat.) 23:59.
+- (6/15) The registration period has been extended to June 22 (Mon.) 11:59 PM KST.
 - (6/15) The total prize pool for UCPC 2026 has been finalized at KRW 8,000,000.
 - (6/15) Accommodation support plans for Finals participants have been finalized.
 - (6/15) Jane Street, HRT, and Citadel booths will be operated at the Finals venue.
 - (6/15) After the Finals, Jane Street will host dinner, games, and networking for participants.
-- (6/5) [Registration for UCPC 2026](https://forms.gle/g5ByqXEgFSw7QR2d7) is now open. Applications are due by June 20 (Sat.) 23:59.
+- (6/5) [Registration for UCPC 2026](https://forms.gle/g5ByqXEgFSw7QR2d7) is now open. Applications are due by June 22 (Mon.) 11:59 PM KST.
 - (2026-03-11) **UCPC 2026 — Call for Tasks is now open** [Link](https://2026.ucpc.me/tasks/){:target="\_blank"}.
 - (2026-02-26) **UCPC 2026 is coming** — Contest page: [Link](https://2026.ucpc.me){:target="\_blank"}
 - (2025-04-21) **UCPC 2025 is coming** — Contest page: [Link](https://2025.ucpc.me){:target="\_blank"}
