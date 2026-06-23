@@ -12,7 +12,7 @@ permalink: /en/
 <!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
 
 ## Notices
-
+- (6/23) Guidance on anti-cheating measures and team note submission for the Qualifier has been added. See the [Qualifier page](https://2026.ucpc.me/qualifier/) for details.
 - (6/15) The registration period has been extended to June 22 (Mon.) 11:59 PM KST.
 - (6/15) The total prize pool for UCPC 2026 has been finalized at KRW 8,000,000.
 - (6/15) Accommodation support plans for Finals participants have been finalized.
