@@ -6,10 +6,11 @@ lang: ko
 
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
-## [2026 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"}
+## [2026 전대프연 세미나 신청하기](https://forms.gle/fshRRESmd2PLdcqS6){:target="_blank"}
 
 ## 공지
 
+- (6/24) 2026 전대프연 세미나 [참가 신청](https://forms.gle/fshRRESmd2PLdcqS6)이 시작되었습니다. 자세한 내용은 [세미나 페이지](https://seminar.ucpc.me/)를 참고해 주세요.
 - (6/23) 예선 부정행위 방지 안내 및 팀노트 제출 안내가 추가되었습니다. 자세한 내용은 [예선 페이지](https://2026.ucpc.me/qualifier/)를 참고해주세요.
 - (6/15) 참가 신청 기간이 6월 22일(월) 오후 11시 59분(KST)까지 연장되었습니다.
 - (6/15) UCPC 2026 총 상금 규모가 800만원으로 확정되었습니다.
