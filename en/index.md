@@ -7,9 +7,10 @@ permalink: /en/
 
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
-## [Register for the UCPC Union 2026 Seminar](https://seminar.ucpc.me/){:target="_blank"}
+## [Register for the UCPC Union 2026 Seminar](https://forms.gle/fshRRESmd2PLdcqS6){:target="_blank"}
 
 ## Notices
+- (6/24) [Registration for the UCPC Union 2026 Seminar](https://forms.gle/fshRRESmd2PLdcqS6) is now open. See the [seminar page](https://seminar.ucpc.me/) for details.
 - (6/23) Guidance on anti-cheating measures and team note submission for the Qualifier has been added. See the [Qualifier page](https://2026.ucpc.me/qualifier/) for details.
 - (6/15) The registration period has been extended to June 22 (Mon.) 11:59 PM KST.
 - (6/15) The total prize pool for UCPC 2026 has been finalized at KRW 8,000,000.
