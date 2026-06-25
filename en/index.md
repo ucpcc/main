@@ -5,11 +5,9 @@ lang: en
 permalink: /en/
 ---
 
-## [Register for UCPC 2026](https://forms.gle/g5ByqXEgFSw7QR2d7){:target="_blank"}
-
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
-<!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
+## [Register for the UCPC Union 2026 Seminar](https://seminar.ucpc.me/){:target="_blank"}
 
 ## Notices
 - (6/23) Guidance on anti-cheating measures and team note submission for the Qualifier has been added. See the [Qualifier page](https://2026.ucpc.me/qualifier/) for details.

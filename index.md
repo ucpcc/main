@@ -4,11 +4,9 @@ title: 전국 대학생 프로그래밍 대회 동아리 연합
 lang: ko
 ---
 
-## [UCPC 2026 참가 신청하기](https://forms.gle/g5ByqXEgFSw7QR2d7){:target="_blank"}
-
 <!-- ## [UCPC 2024 신청하기](https://2024.ucpc.me){:target="_blank"} -->
 <!-- ## [UCPC 2025 신청하기](https://2025.ucpc.me){:target="_blank"} -->
-<!-- ## [2025 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"} -->
+## [2026 전대프연 세미나 신청하기](https://seminar.ucpc.me/){:target="_blank"}
 
 ## 공지
 
