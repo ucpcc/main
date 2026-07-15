@@ -57,6 +57,7 @@ lang: ko
 | 인하대학교              | [CTP](https://inhactp.github.io/ctp-homepage/){:target="\_blank"}                                                           |
 | 전남대학교              | [에코노베이션](https://econovation.kr/){:target="\_blank"}                                                                  |
 | 전북대학교              | [ALPS](https://sites.google.com/view/jbnu-alps){:target="\_blank"}                                                          |
+| 중앙대학교              | ZeroPage (전 ChAOS)                                                                                                         |
 | 충남대학교              | [ANA](https://anacnu.kr/){:target="\_blank"}                                                                                |
 | 포항공과대학교          | [POSCAT](https://poscat.team/){:target="\_blank"}                                                                           |
 | 한국기술교육대학교      | 씨앗                                                                                                                        |
