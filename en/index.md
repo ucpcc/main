@@ -57,6 +57,7 @@ permalink: /en/
 | Inha University                                     | [CTP](https://inhactp.github.io/ctp-homepage/){:target="\_blank"}                                                           |
 | Chonnam National University                         | [에코노베이션](https://econovation.kr/){:target="\_blank"}                                                                  |
 | Jeonbuk National University                         | [ALPS](https://sites.google.com/view/jbnu-alps){:target="\_blank"}                                                          |
+| Chung-Ang University                                | ZeroPage (formerly ChAOS)                                                                                                   |
 | Chungnam National University                        | [ANA](https://anacnu.kr/){:target="\_blank"}                                                                                |
 | POSTECH                                             | [POSCAT](https://poscat.team/){:target="\_blank"}                                                                           |
 | Korea University of Technology and Education        | 씨앗                                                                                                                        |
