@@ -66,6 +66,7 @@ permalink: /en/
 | Hanyang University (ERICA Campus)                   | [0&1](https://zerone01.kr/){:target="\_blank"}                                                                              |
 | Hongik University                                   | [HI-ARC](https://hiarchomepage.web.app/){:target="\_blank"}                                                                 |
 | DGIST                                               | DPS                                                                                                                         |
+| GIST                                                | 능재(NeungzAI)                                                                                                              |
 | KAIST                                               | [RUN](https://kaist.run/){:target="\_blank"}                                                                                |
 | UNIST                                               | [Almight](https://almight.notion.site/){:target="\_blank"}                                                                  |
 
