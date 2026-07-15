@@ -66,6 +66,7 @@ lang: ko
 | 한양대학교 ERICA 캠퍼스 | [0&1](https://zerone01.kr/){:target="\_blank"}                                                                              |
 | 홍익대학교              | [HI-ARC](https://hiarchomepage.web.app/){:target="\_blank"}                                                                 |
 | DGIST                   | DPS                                                                                                                         |
+| GIST                    | 능재(NeungzAI)                                                                                                              |
 | KAIST                   | [RUN](https://kaist.run/){:target="\_blank"}                                                                                |
 | UNIST                   | [Almight](https://almight.notion.site/){:target="\_blank"}                                                                  |
 
